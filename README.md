@@ -2,7 +2,7 @@ This is my awesome Repo- M.
 ===========================
 
 ##Table of Contents
-KONFLIKT
+
 - Installation
 - Import Notes
 - Best Pizza in Town
